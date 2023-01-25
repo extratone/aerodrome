@@ -1,8 +1,11 @@
 ---
 name: Docs
-about: Documentation! Specifically, documentation that is not related to Editorial Git or this repo's configuration.
+about: Documentation! Specifically, documentation that is not related to Editorial
+  Git or this repo's configuration.
 title: ''
-labels: 'documentation'
+labels: documentation
 assignees: extratone
 
 ---
+
+

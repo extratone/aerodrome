@@ -1,8 +1,11 @@
 ---
 name: Meta
-about: Regarding this repo! Or Editorial Git, otherwise. Features! Problems! Fuckups! Ideas!
+about: Regarding this repo! Or Editorial Git, otherwise. Features! Problems! Fuckups!
+  Ideas!
 title: ''
-labels: 'documentation, meta'
+labels: documentation
 assignees: extratone
 
 ---
+
+
