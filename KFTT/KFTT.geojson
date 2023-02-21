@@ -1,0 +1,1774 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.00300598144531,
+          38.83844566345215
+        ]
+      },
+      "properties": {
+        "name": "Elton Hensley Mem",
+        "ele": 82.312096,
+        "infiniteflight": {
+          "facade": null,
+          "facadeAssignments": null,
+          "roofOrientation": 0,
+          "animationStates": null,
+          "objectType": 9,
+          "path": null,
+          "modelRefName": null,
+          "roofDepth": 1,
+          "roofType": 2
+        },
+        "infiniteflight_airport_properties": {
+          "icao": "KFTT",
+          "elevation": 270.0528,
+          "name": "Elton Hensley Mem",
+          "spokenName": "Elton Hensley Mem",
+          "city": "Fulton",
+          "country": "United States",
+          "state": " Missouri",
+          "iataCode": "FTT",
+          "faaCode": "FTT",
+          "airportClass": 0,
+          "latitude": 38.83844566345215,
+          "longitude": -92.00300598144531,
+          "frequencies": [
+            {
+              "frequencyType": 3,
+              "name": "CTAF/UNICOM",
+              "_integerFrequency": 12270,
+              "airports": null
+            },
+            {
+              "frequencyType": 7,
+              "name": "MIZZU APP/DEP",
+              "_integerFrequency": 12437,
+              "airports": null
+            }
+          ],
+          "areTaxiwayRoutesAvailable": false,
+          "areJetbridgesAvailable": false,
+          "appVersion": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.99956512451172,
+          38.83918762207031
+        ]
+      },
+      "properties": {
+        "orientation": 181.91,
+        "name": "18 Landing Guidance",
+        "ele": 270.0528,
+        "infiniteflight": {
+          "facade": null,
+          "facadeAssignments": null,
+          "roofOrientation": 0,
+          "animationStates": null,
+          "objectType": 14,
+          "path": null,
+          "modelRefName": null,
+          "roofDepth": 1,
+          "roofType": 2
+        },
+        "infiniteflight_landing_guidance": {
+          "glideslope": 3,
+          "lightingObjectType": 2,
+          "runwayIdentifier": "18"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.00064849853516,
+          38.83182907104492
+        ]
+      },
+      "properties": {
+        "orientation": 1.91,
+        "name": "36 Landing Guidance",
+        "ele": 270.0528,
+        "infiniteflight": {
+          "facade": null,
+          "facadeAssignments": null,
+          "roofOrientation": 0,
+          "animationStates": null,
+          "objectType": 14,
+          "path": null,
+          "modelRefName": null,
+          "roofDepth": 1,
+          "roofType": 2
+        },
+        "infiniteflight_landing_guidance": {
+          "glideslope": 3,
+          "lightingObjectType": 2,
+          "runwayIdentifier": "36"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.00057220458984,
+          38.84125900268555
+        ]
+      },
+      "properties": {
+        "orientation": 237.01,
+        "name": "23 Landing Guidance",
+        "ele": 270.0528,
+        "infiniteflight": {
+          "facade": null,
+          "facadeAssignments": null,
+          "roofOrientation": 0,
+          "animationStates": null,
+          "objectType": 14,
+          "path": null,
+          "modelRefName": null,
+          "roofDepth": 1,
+          "roofType": 2
+        },
+        "infiniteflight_landing_guidance": {
+          "glideslope": 3,
+          "lightingObjectType": 1,
+          "runwayIdentifier": "23"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0064697265625,
+          38.83884048461914
+        ]
+      },
+      "properties": {
+        "orientation": 57,
+        "name": "05 Landing Guidance",
+        "ele": 270.0528,
+        "infiniteflight": {
+          "facade": null,
+          "facadeAssignments": null,
+          "roofOrientation": 0,
+          "animationStates": null,
+          "objectType": 14,
+          "path": null,
+          "modelRefName": null,
+          "roofDepth": 1,
+          "roofType": 2
+        },
+        "infiniteflight_landing_guidance": {
+          "glideslope": 3,
+          "lightingObjectType": 1,
+          "runwayIdentifier": "05"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -92.0000011,
+            38.84100035
+          ],
+          [
+            -92.00066393,
+            38.841017579999985
+          ],
+          [
+            -92.00113388,
+            38.83004258
+          ],
+          [
+            -92.00047115,
+            38.83002535
+          ]
+        ]
+      },
+      "properties": {
+        "ele": 270.0528,
+        "name": "Line 0",
+        "infiniteflight": {
+          "facade": null,
+          "facadeAssignments": null,
+          "roofOrientation": 0,
+          "animationStates": null,
+          "objectType": 5,
+          "path": null,
+          "modelRefName": null,
+          "roofDepth": 1,
+          "roofType": 2
+        },
+        "infiniteflight_taxiline": {
+          "category": 6,
+          "direction": 0,
+          "paintLineType": 53,
+          "usage": 0,
+          "lightsType": 102
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -92.00046235,
+            38.83023096
+          ],
+          [
+            -92.00047156080547,
+            38.83019723141712
+          ],
+          [
+            -92.00049130829122,
+            38.83017221877004
+          ],
+          [
+            -92.00051796632017,
+            38.83015462174483
+          ],
+          [
+            -92.00054790875956,
+            38.8301431400269
+          ],
+          [
+            -92.000628,
+            38.83013235999999
+          ],
+          [
+            -92.00083915,
+            38.83013784
+          ],
+          [
+            -92.00089123210671,
+            38.830143617131846
+          ],
+          [
+            -92.00093001436777,
+            38.830156284402854
+          ],
+          [
+            -92.00095745569426,
+            38.83017348072819
+          ],
+          [
+            -92.00097551499275,
+            38.830192845018935
+          ],
+          [
+            -92.00099311,
+            38.830244760000014
+          ],
+          [
+            -92.00076913,
+            38.835475249999995
+          ],
+          [
+            -92.00023833,
+            38.83546145
+          ]
+        ]
+      },
+      "properties": {
+        "ele": 270.0528,
+        "name": "Line 1",
+        "infiniteflight": {
+          "facade": null,
+          "facadeAssignments": null,
+          "roofOrientation": 0,
+          "animationStates": null,
+          "objectType": 5,
+          "path": null,
+          "modelRefName": null,
+          "roofDepth": 1,
+          "roofType": 2
+        },
+        "infiniteflight_taxiline": {
+          "category": 6,
+          "direction": 0,
+          "paintLineType": 53,
+          "usage": 0,
+          "lightsType": 102
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -92.00023392,
+            38.83556425000001
+          ],
+          [
+            -92.00076472,
+            38.83557805
+          ],
+          [
+            -92.00054075,
+            38.84080854
+          ],
+          [
+            -92.00053248896901,
+            38.84084229831158
+          ],
+          [
+            -92.00051345360313,
+            38.84086733330109
+          ],
+          [
+            -92.00048730424942,
+            38.84088494633443
+          ],
+          [
+            -92.00045770125928,
+            38.840896438776696
+          ],
+          [
+            -92.00037796,
+            38.84090723
+          ],
+          [
+            -92.00016677,
+            38.84090174999999
+          ],
+          [
+            -92.00011455753629,
+            38.840895969046045
+          ],
+          [
+            -92.00007544405496,
+            38.840883291590615
+          ],
+          [
+            -92.00004753792031,
+            38.840866080845714
+          ],
+          [
+            -92.00002894749217,
+            38.84084670001919
+          ],
+          [
+            -92.00000991,
+            38.84079474000002
+          ],
+          [
+            -92.0000011,
+            38.84100035
+          ]
+        ]
+      },
+      "properties": {
+        "ele": 270.0528,
+        "name": "Line 2",
+        "infiniteflight": {
+          "facade": null,
+          "facadeAssignments": null,
+          "roofOrientation": 0,
+          "animationStates": null,
+          "objectType": 5,
+          "path": null,
+          "modelRefName": null,
+          "roofDepth": 1,
+          "roofType": 2
+        },
+        "infiniteflight_taxiline": {
+          "category": 6,
+          "direction": 0,
+          "paintLineType": 53,
+          "usage": 0,
+          "lightsType": 102
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -92.0081985,
+            38.83760882
+          ],
+          [
+            -92.00797159,
+            38.83733663000002
+          ],
+          [
+            -91.99853020000002,
+            38.84211201
+          ],
+          [
+            -91.99875713,
+            38.8423842
+          ]
+        ]
+      },
+      "properties": {
+        "ele": 270.0528,
+        "name": "Line 4",
+        "infiniteflight": {
+          "facade": null,
+          "facadeAssignments": null,
+          "roofOrientation": 0,
+          "animationStates": null,
+          "objectType": 5,
+          "path": null,
+          "modelRefName": null,
+          "roofDepth": 1,
+          "roofType": 2
+        },
+        "infiniteflight_taxiline": {
+          "category": 6,
+          "direction": 0,
+          "paintLineType": 3,
+          "usage": 0,
+          "lightsType": 102
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -91.99889595,
+            38.84231399000002
+          ],
+          [
+            -91.99887019687782,
+            38.84232216738901
+          ],
+          [
+            -91.99884646312512,
+            38.84232305782218
+          ],
+          [
+            -91.9988067974942,
+            38.842310617509916
+          ],
+          [
+            -91.99877088000001,
+            38.84228233
+          ],
+          [
+            -91.99869877,
+            38.842195829999994
+          ],
+          [
+            -91.9986783445284,
+            38.842152842664284
+          ],
+          [
+            -91.99868614625323,
+            38.84212151875696
+          ],
+          [
+            -91.99871409,
+            38.84209586000001
+          ],
+          [
+            -92.00326126,
+            38.83979593
+          ],
+          [
+            -92.00344311,
+            38.840014060000016
+          ]
+        ]
+      },
+      "properties": {
+        "ele": 270.0528,
+        "name": "Line 5",
+        "infiniteflight": {
+          "facade": null,
+          "facadeAssignments": null,
+          "roofOrientation": 0,
+          "animationStates": null,
+          "objectType": 5,
+          "path": null,
+          "modelRefName": null,
+          "roofDepth": 1,
+          "roofType": 2
+        },
+        "infiniteflight_taxiline": {
+          "category": 6,
+          "direction": 0,
+          "paintLineType": 3,
+          "usage": 0,
+          "lightsType": 102
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -92.00351252,
+            38.83997896000001
+          ],
+          [
+            -92.00333067,
+            38.83976083000001
+          ],
+          [
+            -92.00787785,
+            38.83746090000001
+          ],
+          [
+            -92.00790308117486,
+            38.83745210164665
+          ],
+          [
+            -92.00792642187535,
+            38.837450743759454
+          ],
+          [
+            -92.00796561499438,
+            38.837462622509754
+          ],
+          [
+            -92.00800133,
+            38.837490669999994
+          ],
+          [
+            -92.00807344000002,
+            38.83757717000001
+          ],
+          [
+            -92.00809410655961,
+            38.837620456883066
+          ],
+          [
+            -92.00808684500328,
+            38.837652430006905
+          ],
+          [
+            -92.00805969,
+            38.837679030000004
+          ],
+          [
+            -92.0081985,
+            38.83760882
+          ]
+        ]
+      },
+      "properties": {
+        "ele": 270.0528,
+        "name": "Line 6",
+        "infiniteflight": {
+          "facade": null,
+          "facadeAssignments": null,
+          "roofOrientation": 0,
+          "animationStates": null,
+          "objectType": 5,
+          "path": null,
+          "modelRefName": null,
+          "roofDepth": 1,
+          "roofType": 2
+        },
+        "infiniteflight_taxiline": {
+          "category": 6,
+          "direction": 0,
+          "paintLineType": 3,
+          "usage": 0,
+          "lightsType": 102
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -92.00810679000001,
+            38.83749881000001
+          ],
+          [
+            -92.00803738,
+            38.83753391999999
+          ]
+        ]
+      },
+      "properties": {
+        "ele": 270.0528,
+        "name": "Line 8",
+        "infiniteflight": {
+          "facade": null,
+          "facadeAssignments": null,
+          "roofOrientation": 0,
+          "animationStates": null,
+          "objectType": 5,
+          "path": null,
+          "modelRefName": null,
+          "roofDepth": 1,
+          "roofType": 2
+        },
+        "infiniteflight_taxiline": {
+          "category": 6,
+          "direction": 0,
+          "paintLineType": 4,
+          "usage": 1,
+          "lightsType": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -92.00026797,
+            38.84100728999999
+          ],
+          [
+            -92.00027237,
+            38.84090449
+          ]
+        ]
+      },
+      "properties": {
+        "ele": 270.0528,
+        "name": "Line 9",
+        "infiniteflight": {
+          "facade": null,
+          "facadeAssignments": null,
+          "roofOrientation": 0,
+          "animationStates": null,
+          "objectType": 5,
+          "path": null,
+          "modelRefName": null,
+          "roofDepth": 1,
+          "roofType": 2
+        },
+        "infiniteflight_taxiline": {
+          "category": 6,
+          "direction": 0,
+          "paintLineType": 54,
+          "usage": 1,
+          "lightsType": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -92.00342081,
+            38.83986895000001
+          ],
+          [
+            -92.0033514,
+            38.83990405000001
+          ]
+        ]
+      },
+      "properties": {
+        "ele": 270.0528,
+        "name": "Line 10",
+        "infiniteflight": {
+          "facade": null,
+          "facadeAssignments": null,
+          "roofOrientation": 0,
+          "animationStates": null,
+          "objectType": 5,
+          "path": null,
+          "modelRefName": null,
+          "roofDepth": 1,
+          "roofType": 2
+        },
+        "infiniteflight_taxiline": {
+          "category": 6,
+          "direction": 0,
+          "paintLineType": 4,
+          "usage": 1,
+          "lightsType": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -92.00050077,
+            38.83557119000001
+          ],
+          [
+            -92.00050518,
+            38.83546839
+          ]
+        ]
+      },
+      "properties": {
+        "ele": 270.0528,
+        "name": "Line 11",
+        "infiniteflight": {
+          "facade": null,
+          "facadeAssignments": null,
+          "roofOrientation": 0,
+          "animationStates": null,
+          "objectType": 5,
+          "path": null,
+          "modelRefName": null,
+          "roofDepth": 1,
+          "roofType": 2
+        },
+        "infiniteflight_taxiline": {
+          "category": 6,
+          "direction": 0,
+          "paintLineType": 54,
+          "usage": 1,
+          "lightsType": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -91.99873482,
+            38.842239080000006
+          ],
+          [
+            -91.99866541,
+            38.84227418999999
+          ]
+        ]
+      },
+      "properties": {
+        "ele": 270.0528,
+        "name": "Line 12",
+        "infiniteflight": {
+          "facade": null,
+          "facadeAssignments": null,
+          "roofOrientation": 0,
+          "animationStates": null,
+          "objectType": 5,
+          "path": null,
+          "modelRefName": null,
+          "roofDepth": 1,
+          "roofType": 2
+        },
+        "infiniteflight_taxiline": {
+          "category": 6,
+          "direction": 0,
+          "paintLineType": 4,
+          "usage": 1,
+          "lightsType": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -92.00073358,
+            38.8301351
+          ],
+          [
+            -92.00073797000002,
+            38.830032290000005
+          ]
+        ]
+      },
+      "properties": {
+        "ele": 270.0528,
+        "name": "Line 13",
+        "infiniteflight": {
+          "facade": null,
+          "facadeAssignments": null,
+          "roofOrientation": 0,
+          "animationStates": null,
+          "objectType": 5,
+          "path": null,
+          "modelRefName": null,
+          "roofDepth": 1,
+          "roofType": 2
+        },
+        "infiniteflight_taxiline": {
+          "category": 6,
+          "direction": 0,
+          "paintLineType": 54,
+          "usage": 1,
+          "lightsType": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -92.00823974609375,
+            38.83766174316406
+          ],
+          [
+            -91.9988021850586,
+            38.842437744140625
+          ]
+        ]
+      },
+      "properties": {
+        "ele": 270.0528,
+        "name": "5-23",
+        "infiniteflight": {
+          "facade": null,
+          "facadeAssignments": null,
+          "roofOrientation": 0,
+          "animationStates": null,
+          "objectType": 8,
+          "path": null,
+          "modelRefName": null,
+          "roofDepth": 1,
+          "roofType": 2
+        },
+        "infiniteflight_runway": {
+          "width": 14.33,
+          "surface": 1,
+          "shoulderSurface": 0,
+          "hasEdgeLights": true,
+          "hasCenterlineLights": false,
+          "runwayEnds": [
+            {
+              "overrun": 0,
+              "displacedThreshold": 0,
+              "lights": 0,
+              "markings": 2,
+              "touchdownLighting": false,
+              "reilType": 1,
+              "location": {
+                "Latitude": 38.83766174316406,
+                "Longitude": -92.00823974609375,
+                "AltitudeLight": 0
+              },
+              "identifier": "5",
+              "glideslope": null,
+              "localizer": null,
+              "heading": 56.984646
+            },
+            {
+              "overrun": 0,
+              "displacedThreshold": 0,
+              "lights": 0,
+              "markings": 2,
+              "touchdownLighting": false,
+              "reilType": 1,
+              "location": {
+                "Latitude": 38.842437744140625,
+                "Longitude": -91.9988021850586,
+                "AltitudeLight": 0
+              },
+              "identifier": "23",
+              "glideslope": null,
+              "localizer": null,
+              "heading": 236.98465
+            }
+          ],
+          "elevation": 886,
+          "length": 974.7561,
+          "lowEnd": {
+            "overrun": 0,
+            "displacedThreshold": 0,
+            "lights": 0,
+            "markings": 2,
+            "touchdownLighting": false,
+            "reilType": 1,
+            "location": {
+              "Latitude": 38.83766174316406,
+              "Longitude": -92.00823974609375,
+              "AltitudeLight": 0
+            },
+            "identifier": "5",
+            "glideslope": null,
+            "localizer": null,
+            "heading": 56.984646
+          },
+          "highEnd": {
+            "overrun": 0,
+            "displacedThreshold": 0,
+            "lights": 0,
+            "markings": 2,
+            "touchdownLighting": false,
+            "reilType": 1,
+            "location": {
+              "Latitude": 38.842437744140625,
+              "Longitude": -91.9988021850586,
+              "AltitudeLight": 0
+            },
+            "identifier": "23",
+            "glideslope": null,
+            "localizer": null,
+            "heading": 236.98465
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -92.0003433227539,
+            38.830020904541016
+          ],
+          [
+            -91.99987030029297,
+            38.84099578857422
+          ]
+        ]
+      },
+      "properties": {
+        "ele": 270.0528,
+        "name": "36-18",
+        "infiniteflight": {
+          "facade": null,
+          "facadeAssignments": null,
+          "roofOrientation": 0,
+          "animationStates": null,
+          "objectType": 8,
+          "path": null,
+          "modelRefName": null,
+          "roofDepth": 1,
+          "roofType": 2
+        },
+        "infiniteflight_runway": {
+          "width": 22.86,
+          "surface": 2,
+          "shoulderSurface": 0,
+          "hasEdgeLights": true,
+          "hasCenterlineLights": false,
+          "runwayEnds": [
+            {
+              "overrun": 0,
+              "displacedThreshold": 0,
+              "lights": 0,
+              "markings": 2,
+              "touchdownLighting": false,
+              "reilType": 1,
+              "location": {
+                "Latitude": 38.830020904541016,
+                "Longitude": -92.0003433227539,
+                "AltitudeLight": 0
+              },
+              "identifier": "36",
+              "glideslope": null,
+              "localizer": null,
+              "heading": 1.922725
+            },
+            {
+              "overrun": 0,
+              "displacedThreshold": 0,
+              "lights": 0,
+              "markings": 2,
+              "touchdownLighting": false,
+              "reilType": 1,
+              "location": {
+                "Latitude": 38.84099578857422,
+                "Longitude": -91.99987030029297,
+                "AltitudeLight": 0
+              },
+              "identifier": "18",
+              "glideslope": null,
+              "localizer": null,
+              "heading": 181.92273
+            }
+          ],
+          "elevation": 886,
+          "length": 1221.039,
+          "lowEnd": {
+            "overrun": 0,
+            "displacedThreshold": 0,
+            "lights": 0,
+            "markings": 2,
+            "touchdownLighting": false,
+            "reilType": 1,
+            "location": {
+              "Latitude": 38.830020904541016,
+              "Longitude": -92.0003433227539,
+              "AltitudeLight": 0
+            },
+            "identifier": "36",
+            "glideslope": null,
+            "localizer": null,
+            "heading": 1.922725
+          },
+          "highEnd": {
+            "overrun": 0,
+            "displacedThreshold": 0,
+            "lights": 0,
+            "markings": 2,
+            "touchdownLighting": false,
+            "reilType": 1,
+            "location": {
+              "Latitude": 38.84099578857422,
+              "Longitude": -91.99987030029297,
+              "AltitudeLight": 0
+            },
+            "identifier": "18",
+            "glideslope": null,
+            "localizer": null,
+            "heading": 181.92273
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -92.00904083251953,
+            38.841590881347656
+          ],
+          [
+            -92.00173950195312,
+            38.83796691894531
+          ]
+        ]
+      },
+      "properties": {
+        "ele": 270.0528,
+        "name": "12-30",
+        "infiniteflight": {
+          "facade": null,
+          "facadeAssignments": null,
+          "roofOrientation": 0,
+          "animationStates": null,
+          "objectType": 8,
+          "path": null,
+          "modelRefName": null,
+          "roofDepth": 1,
+          "roofType": 2
+        },
+        "infiniteflight_runway": {
+          "width": 30.48,
+          "surface": 4,
+          "shoulderSurface": 0,
+          "hasEdgeLights": false,
+          "hasCenterlineLights": false,
+          "runwayEnds": [
+            {
+              "overrun": 0,
+              "displacedThreshold": 0,
+              "lights": 0,
+              "markings": 1,
+              "touchdownLighting": false,
+              "reilType": 0,
+              "location": {
+                "Latitude": 38.841590881347656,
+                "Longitude": -92.00904083251953,
+                "AltitudeLight": 0
+              },
+              "identifier": "12",
+              "glideslope": null,
+              "localizer": null,
+              "heading": 122.50436
+            },
+            {
+              "overrun": 0,
+              "displacedThreshold": 0,
+              "lights": 0,
+              "markings": 1,
+              "touchdownLighting": false,
+              "reilType": 0,
+              "location": {
+                "Latitude": 38.83796691894531,
+                "Longitude": -92.00173950195312,
+                "AltitudeLight": 0
+              },
+              "identifier": "30",
+              "glideslope": null,
+              "localizer": null,
+              "heading": 302.50436
+            }
+          ],
+          "elevation": 886,
+          "length": 749.8478,
+          "lowEnd": {
+            "overrun": 0,
+            "displacedThreshold": 0,
+            "lights": 0,
+            "markings": 1,
+            "touchdownLighting": false,
+            "reilType": 0,
+            "location": {
+              "Latitude": 38.841590881347656,
+              "Longitude": -92.00904083251953,
+              "AltitudeLight": 0
+            },
+            "identifier": "12",
+            "glideslope": null,
+            "localizer": null,
+            "heading": 122.50436
+          },
+          "highEnd": {
+            "overrun": 0,
+            "displacedThreshold": 0,
+            "lights": 0,
+            "markings": 1,
+            "touchdownLighting": false,
+            "reilType": 0,
+            "location": {
+              "Latitude": 38.83796691894531,
+              "Longitude": -92.00173950195312,
+              "AltitudeLight": 0
+            },
+            "identifier": "30",
+            "glideslope": null,
+            "localizer": null,
+            "heading": 302.50436
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -92.0000011,
+                38.84100035
+              ],
+              [
+                -92.00066393,
+                38.84101757999998
+              ],
+              [
+                -92.00113388,
+                38.83004258
+              ],
+              [
+                -92.00047115,
+                38.83002534999999
+              ],
+              [
+                -92.00046235,
+                38.83023096000001
+              ],
+              [
+                -92.00047156080547,
+                38.830197231417124
+              ],
+              [
+                -92.00049130829122,
+                38.83017221877003
+              ],
+              [
+                -92.00051796632017,
+                38.83015462174482
+              ],
+              [
+                -92.00054790875956,
+                38.8301431400269
+              ],
+              [
+                -92.000628,
+                38.83013235999999
+              ],
+              [
+                -92.00083915,
+                38.830137840000006
+              ],
+              [
+                -92.00089123210671,
+                38.830143617131846
+              ],
+              [
+                -92.00093001436777,
+                38.83015628440285
+              ],
+              [
+                -92.00095745569426,
+                38.83017348072818
+              ],
+              [
+                -92.00097551499275,
+                38.83019284501892
+              ],
+              [
+                -92.00099311,
+                38.830244760000014
+              ],
+              [
+                -92.00076913,
+                38.835475249999995
+              ],
+              [
+                -92.00023833,
+                38.83546145
+              ],
+              [
+                -92.00023392,
+                38.83556425000001
+              ],
+              [
+                -92.00076472,
+                38.83557805
+              ],
+              [
+                -92.00054075,
+                38.84080854
+              ],
+              [
+                -92.00053248896901,
+                38.84084229831158
+              ],
+              [
+                -92.00051345360313,
+                38.84086733330109
+              ],
+              [
+                -92.00048730424942,
+                38.84088494633443
+              ],
+              [
+                -92.00045770125928,
+                38.84089643877669
+              ],
+              [
+                -92.00037796,
+                38.84090723
+              ],
+              [
+                -92.00016677,
+                38.840901749999986
+              ],
+              [
+                -92.00011455753629,
+                38.840895969046045
+              ],
+              [
+                -92.00007544405496,
+                38.84088329159062
+              ],
+              [
+                -92.00004753792031,
+                38.840866080845714
+              ],
+              [
+                -92.00002894749217,
+                38.84084670001919
+              ],
+              [
+                -92.00000991,
+                38.84079474000002
+              ],
+              [
+                -92.0000011,
+                38.84100035
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ele": 270.0528,
+        "name": "Default taxiway for RWY 18",
+        "infiniteflight": {
+          "facade": null,
+          "facadeAssignments": null,
+          "roofOrientation": 0,
+          "animationStates": null,
+          "objectType": 7,
+          "path": null,
+          "modelRefName": null,
+          "roofDepth": 1,
+          "roofType": 2
+        },
+        "infiniteflight_pavement": {
+          "surfaceType": 2,
+          "textureGrainOrientation": 181.91,
+          "pathNodes": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -92.0081985,
+                38.83760882
+              ],
+              [
+                -92.00797159,
+                38.83733663000002
+              ],
+              [
+                -91.99853020000002,
+                38.84211201
+              ],
+              [
+                -91.99875713,
+                38.8423842
+              ],
+              [
+                -91.99889595,
+                38.842313990000015
+              ],
+              [
+                -91.99887019687782,
+                38.842322167389
+              ],
+              [
+                -91.99884646312512,
+                38.84232305782217
+              ],
+              [
+                -91.9988067974942,
+                38.842310617509916
+              ],
+              [
+                -91.99877088000001,
+                38.84228233
+              ],
+              [
+                -91.99869877,
+                38.842195829999994
+              ],
+              [
+                -91.9986783445284,
+                38.842152842664284
+              ],
+              [
+                -91.99868614625323,
+                38.84212151875696
+              ],
+              [
+                -91.99871409,
+                38.84209586000001
+              ],
+              [
+                -92.00326126,
+                38.83979593
+              ],
+              [
+                -92.00344311,
+                38.840014060000016
+              ],
+              [
+                -92.00351252,
+                38.83997896000001
+              ],
+              [
+                -92.00333067,
+                38.83976083000001
+              ],
+              [
+                -92.00787785,
+                38.83746090000001
+              ],
+              [
+                -92.00790308117486,
+                38.83745210164665
+              ],
+              [
+                -92.00792642187535,
+                38.83745074375945
+              ],
+              [
+                -92.00796561499438,
+                38.837462622509754
+              ],
+              [
+                -92.00800133,
+                38.837490669999994
+              ],
+              [
+                -92.00807344000002,
+                38.83757717000001
+              ],
+              [
+                -92.00809410655961,
+                38.83762045688306
+              ],
+              [
+                -92.00808684500328,
+                38.83765243000692
+              ],
+              [
+                -92.00805969,
+                38.837679030000004
+              ],
+              [
+                -92.0081985,
+                38.83760882
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ele": 270.0528,
+        "name": "Default taxiway for RWY 05",
+        "infiniteflight": {
+          "facade": null,
+          "facadeAssignments": null,
+          "roofOrientation": 0,
+          "animationStates": null,
+          "objectType": 7,
+          "path": null,
+          "modelRefName": null,
+          "roofDepth": 1,
+          "roofType": 2
+        },
+        "infiniteflight_pavement": {
+          "surfaceType": 1,
+          "textureGrainOrientation": 57,
+          "pathNodes": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -92.00034332,
+            38.8300209
+          ],
+          [
+            -92.00113678,
+            38.83004379
+          ],
+          [
+            -92.00797272,
+            38.83733749
+          ],
+          [
+            -92.00811005,
+            38.83749771
+          ],
+          [
+            -92.0082016,
+            38.83760834
+          ],
+          [
+            -92.00823975,
+            38.83766174
+          ],
+          [
+            -92.00904083,
+            38.84159088
+          ],
+          [
+            -91.99880219,
+            38.84243774
+          ],
+          [
+            -91.99875641,
+            38.84238434
+          ],
+          [
+            -91.99852753,
+            38.84211349
+          ]
+        ]
+      },
+      "properties": {
+        "ele": 270.0528,
+        "name": "Airport Boundary",
+        "infiniteflight": {
+          "facade": null,
+          "facadeAssignments": null,
+          "roofOrientation": 0,
+          "animationStates": null,
+          "objectType": 12,
+          "path": null,
+          "modelRefName": null,
+          "roofDepth": 1,
+          "roofType": 2
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.99918365478516,
+          38.835487365722656
+        ]
+      },
+      "properties": {
+        "name": null,
+        "ele": 270.0528,
+        "infiniteflight": {
+          "facade": null,
+          "facadeAssignments": null,
+          "roofOrientation": 0,
+          "animationStates": null,
+          "objectType": 13,
+          "path": null,
+          "modelRefName": null,
+          "roofDepth": 1,
+          "roofType": 2
+        },
+        "infiniteflight_beacon": {
+          "beaconType": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -92.0043326,
+            38.8419777
+          ],
+          [
+            -92.0038163,
+            38.8413438
+          ],
+          [
+            -92.0039824,
+            38.8412676
+          ],
+          [
+            -92.0044974,
+            38.8419014
+          ]
+        ]
+      },
+      "properties": {
+        "height": "10",
+        "ele": 270.0528,
+        "name": "",
+        "infiniteflight": {
+          "facade": "Hangar 04",
+          "facadeAssignments": null,
+          "roofOrientation": -32.39028,
+          "animationStates": null,
+          "objectType": 0,
+          "path": null,
+          "modelRefName": null,
+          "roofDepth": 1,
+          "roofType": 2
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -92.0037303,
+            38.8422843
+          ],
+          [
+            -92.0035799,
+            38.8423578
+          ],
+          [
+            -92.0032264,
+            38.8419193
+          ],
+          [
+            -92.0032449,
+            38.8419102
+          ],
+          [
+            -92.0031046,
+            38.8417362
+          ],
+          [
+            -92.0032269,
+            38.8416764
+          ],
+          [
+            -92.0033672,
+            38.8418505
+          ],
+          [
+            -92.0033768,
+            38.8418457
+          ]
+        ]
+      },
+      "properties": {
+        "height": "10",
+        "ele": 270.0528,
+        "name": "",
+        "infiniteflight": {
+          "facade": "Hangar 04",
+          "facadeAssignments": null,
+          "roofOrientation": 147.88115,
+          "animationStates": null,
+          "objectType": 0,
+          "path": null,
+          "modelRefName": null,
+          "roofDepth": 1,
+          "roofType": 2
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -92.0039572,
+            38.8421582
+          ],
+          [
+            -92.003446,
+            38.8415368
+          ],
+          [
+            -92.003607,
+            38.8414597
+          ],
+          [
+            -92.0041094,
+            38.842089
+          ]
+        ]
+      },
+      "properties": {
+        "height": "10",
+        "ele": 270.0528,
+        "name": "",
+        "infiniteflight": {
+          "facade": "Hangar 04",
+          "facadeAssignments": null,
+          "roofOrientation": 148.12576,
+          "animationStates": null,
+          "objectType": 0,
+          "path": null,
+          "modelRefName": null,
+          "roofDepth": 1,
+          "roofType": 2
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -92.0031468,
+            38.8424937
+          ],
+          [
+            -92.0029666,
+            38.842594
+          ],
+          [
+            -92.0028207,
+            38.8424202
+          ],
+          [
+            -92.0030095,
+            38.8423266
+          ]
+        ]
+      },
+      "properties": {
+        "height": "10",
+        "ele": 270.0528,
+        "name": "",
+        "infiniteflight": {
+          "facade": "Small Office Building",
+          "facadeAssignments": null,
+          "roofOrientation": -33.178257,
+          "animationStates": null,
+          "objectType": 0,
+          "path": null,
+          "modelRefName": null,
+          "roofDepth": 1,
+          "roofType": 2
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -92.0017159,
+            38.8432427
+          ],
+          [
+            -92.0015933,
+            38.8432558
+          ],
+          [
+            -92.0016191,
+            38.8426876
+          ],
+          [
+            -92.0017414,
+            38.8426874
+          ]
+        ]
+      },
+      "properties": {
+        "height": "10",
+        "ele": 270.0528,
+        "name": "",
+        "infiniteflight": {
+          "facade": "Small Office Building",
+          "facadeAssignments": null,
+          "roofOrientation": 2.0254529,
+          "animationStates": null,
+          "objectType": 0,
+          "path": null,
+          "modelRefName": null,
+          "roofDepth": 1,
+          "roofType": 2
+        }
+      }
+    }
+  ]
+}
