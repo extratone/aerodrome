@@ -1,0 +1,189 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.44740676879883,
+          38.95114707946777
+        ]
+      },
+      "properties": {
+        "name": "Sugar Branch",
+        "ele": 65.03213,
+        "infiniteflight": {
+          "facade": null,
+          "facadeAssignments": null,
+          "roofOrientation": 0,
+          "animationStates": null,
+          "objectType": 9,
+          "path": null,
+          "modelRefName": null,
+          "roofDepth": 1,
+          "roofType": 2
+        },
+        "infiniteflight_airport_properties": {
+          "icao": "MU32",
+          "elevation": 213.36,
+          "name": "Sugar Branch",
+          "spokenName": "Sugar Branch",
+          "city": "Columbia",
+          "country": "United States",
+          "state": "Missouri",
+          "iataCode": null,
+          "faaCode": null,
+          "airportClass": 0,
+          "latitude": 38.95114707946777,
+          "longitude": -92.44740676879883,
+          "frequencies": [],
+          "areTaxiwayRoutesAvailable": false,
+          "areJetbridgesAvailable": false,
+          "appVersion": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -92.44547272,
+            38.94974518
+          ],
+          [
+            -92.44934082,
+            38.95254898
+          ]
+        ]
+      },
+      "properties": {
+        "ele": 213.36,
+        "name": "Airport Boundary",
+        "infiniteflight": {
+          "facade": null,
+          "facadeAssignments": null,
+          "roofOrientation": 0,
+          "animationStates": null,
+          "objectType": 12,
+          "path": null,
+          "modelRefName": null,
+          "roofDepth": 1,
+          "roofType": 2
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -92.4493408203125,
+            38.95254898071289
+          ],
+          [
+            -92.44547271728516,
+            38.949745178222656
+          ]
+        ]
+      },
+      "properties": {
+        "ele": 213.36,
+        "name": "13-31",
+        "infiniteflight": {
+          "facade": null,
+          "facadeAssignments": null,
+          "roofOrientation": 0,
+          "animationStates": null,
+          "objectType": 8,
+          "path": null,
+          "modelRefName": null,
+          "roofDepth": 1,
+          "roofType": 2
+        },
+        "infiniteflight_runway": {
+          "width": 18.29,
+          "surface": 3,
+          "shoulderSurface": 0,
+          "hasEdgeLights": false,
+          "hasCenterlineLights": false,
+          "runwayEnds": [
+            {
+              "overrun": 0,
+              "displacedThreshold": 0,
+              "lights": 0,
+              "markings": 1,
+              "touchdownLighting": false,
+              "reilType": 0,
+              "location": {
+                "Latitude": 38.95254898071289,
+                "Longitude": -92.4493408203125,
+                "AltitudeLight": 0
+              },
+              "identifier": "13",
+              "glideslope": null,
+              "localizer": null,
+              "heading": 132.98505
+            },
+            {
+              "overrun": 0,
+              "displacedThreshold": 0,
+              "lights": 0,
+              "markings": 1,
+              "touchdownLighting": false,
+              "reilType": 0,
+              "location": {
+                "Latitude": 38.949745178222656,
+                "Longitude": -92.44547271728516,
+                "AltitudeLight": 0
+              },
+              "identifier": "31",
+              "glideslope": null,
+              "localizer": null,
+              "heading": 312.98505
+            }
+          ],
+          "elevation": 700,
+          "length": 457.25735,
+          "lowEnd": {
+            "overrun": 0,
+            "displacedThreshold": 0,
+            "lights": 0,
+            "markings": 1,
+            "touchdownLighting": false,
+            "reilType": 0,
+            "location": {
+              "Latitude": 38.95254898071289,
+              "Longitude": -92.4493408203125,
+              "AltitudeLight": 0
+            },
+            "identifier": "13",
+            "glideslope": null,
+            "localizer": null,
+            "heading": 132.98505
+          },
+          "highEnd": {
+            "overrun": 0,
+            "displacedThreshold": 0,
+            "lights": 0,
+            "markings": 1,
+            "touchdownLighting": false,
+            "reilType": 0,
+            "location": {
+              "Latitude": 38.949745178222656,
+              "Longitude": -92.44547271728516,
+              "AltitudeLight": 0
+            },
+            "identifier": "31",
+            "glideslope": null,
+            "localizer": null,
+            "heading": 312.98505
+          }
+        }
+      }
+    }
+  ]
+}
